@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/filepath/commit/920f6bb38622b49b9afa89a86de818ee8f6daa94",
       "git:hexsha": "920f6bb38622b49b9afa89a86de818ee8f6daa94",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
